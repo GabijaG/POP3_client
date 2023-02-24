@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/POP3Client.dir/POP3_Client.c.o CMakeFiles/POP3Client.dir/ssl_connection.c.o CMakeFiles/POP3Client.dir/user_UI.c.o CMakeFiles/POP3Client.dir/pop3_clientLib.c.o CMakeFiles/POP3Client.dir/loggerLib.c.o  -o POP3Client  -lssl -lcrypto 

@@ -1,0 +1,3 @@
+/home/gabija/Desktop/POP3_client/build/CMakeFiles/rebuild_cache.dir
+/home/gabija/Desktop/POP3_client/build/CMakeFiles/edit_cache.dir
+/home/gabija/Desktop/POP3_client/build/CMakeFiles/POP3Client.dir

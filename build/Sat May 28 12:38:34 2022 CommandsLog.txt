@@ -1,0 +1,6 @@
+Sat May 28 12:38:34 2022 Command: USER
+Sat May 28 12:38:34 2022 Command: PASS
+Sat May 28 12:38:34 2022 Command: STAT
+Sat May 28 12:38:34 2022 Command: LIST argument = n
+Sat May 28 12:38:34 2022 Command: QUIT
+Sat May 28 12:38:34 2022 Command: Finish job.

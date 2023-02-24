@@ -1,0 +1,16 @@
+pop3@gmail.com>
+To: 2Test Mail <2TestPOP3@gmail.com>
+Content-Type: multipart/alternative; boundary="000000000000adeb9f05e00f34d1"
+
+--000000000000adeb9f05e00f34d1
+Content-Type: text/plain; charset="UTF-8"
+
+Hello world
+
+--000000000000adeb9f05e00f34d1
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">Hello world<br></div>
+
+--000000000000adeb9f05e00f34d1--
+.
